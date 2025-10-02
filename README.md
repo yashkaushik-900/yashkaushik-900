@@ -60,9 +60,9 @@ A passionate **B.Tech Student** and aspiring **Software Engineer** specializing 
 
 | Project | Description | Tech Used | Links |
 | :--- | :--- | :--- | :--- |
-| **Job Portal** | A complete platform with **secure user authentication**, job posting by recruiters, and application management for candidates. | MERN Stack, JWT | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** |
-| **E-Commerce Store** | Full-featured online store with user cart, payment gateway integration (e.g., Stripe/PayPal), and a protected **Admin Panel** for inventory management. | MERN Stack | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** | 
 | **Recipe Finder** | Responsive website for searching recipes using an external API. Showcases modern CSS frameworks and DOM manipulation. | HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub-[https://github.com/yashkaushik-900/RecipeFinder-website.git]]** |
+<!--| **Job Portal** | A complete platform with **secure user authentication**, job posting by recruiters, and application management for candidates. | MERN Stack, JWT | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** |
+| **E-Commerce Store** | Full-featured online store with user cart, payment gateway integration (e.g., Stripe/PayPal), and a protected **Admin Panel** for inventory management. | MERN Stack | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** | -->
 
 *(Please replace the placeholder links above with your actual repository links.)*
 
