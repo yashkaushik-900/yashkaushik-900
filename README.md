@@ -56,13 +56,13 @@ A passionate **B.Tech Student** and aspiring **Software Engineer** specializing 
 
 ## 📂 Featured Projects (Impact & Scalability)
 
-<!--### 💻 Full-Stack Web Applications (MERN)
-
+### 💻 Full-Stack Web Applications (MERN)
+<!--
 | Project | Description | Tech Used | Links |
 | :--- | :--- | :--- | :--- |
 | **Job Portal** | A complete platform with **secure user authentication**, job posting by recruiters, and application management for candidates. | MERN Stack, JWT | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** |
-| **E-Commerce Store** | Full-featured online store with user cart, payment gateway integration (e.g., Stripe/PayPal), and a protected **Admin Panel** for inventory management. | MERN Stack | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** |
-| **Real-time Chat App** | A multi-user chat application implementing **Socket.io** for real-time messaging, demonstrating proficiency with web sockets and server-side state. | MERN Stack, Socket.io | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** | -->
+| **E-Commerce Store** | Full-featured online store with user cart, payment gateway integration (e.g., Stripe/PayPal), and a protected **Admin Panel** for inventory management. | MERN Stack | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** | -->
+| **Recipe Finder** | Responsive website for searching recipes using an external API. Showcases modern CSS frameworks and DOM manipulation. | HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** |
 
 *(Please replace the placeholder links above with your actual repository links.)*
 
@@ -70,10 +70,10 @@ A passionate **B.Tech Student** and aspiring **Software Engineer** specializing 
 
 | Project | Key Impact & Value | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **Vendor Performance Analytics** | Identified bottlenecks and inefficiencies, leading to recommendations for **optimized vendor selection & pricing** models. | Python, SQL, Power BI | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub]** |
-| **Customer Churn Analysis** | Built a model to **identify key drivers** of customer attrition, providing a basis for targeted retention strategies. | Python (Pandas/Scikit-learn), Excel | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub]** |
-| **E-Commerce Sales Analysis** | Deep-dive analysis of sales data to find **seasonal trends** and **top-performing product categories**, driving inventory and marketing decisions. | Excel, Python (Pandas) | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub]** |
-| **Hotel Booking Analysis** | Analyzed booking patterns, cancellation rates, and customer demographics to inform **dynamic pricing** and **inventory management** strategies. | Excel, Power BI | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub]** |
+| **Vendor Performance Analytics** | Identified bottlenecks and inefficiencies, leading to recommendations for **optimized vendor selection & pricing** models. | Python, SQL, Power BI | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub-[https://github.com/yashkaushik-900/Vendor-Performance-Data-Analytics.git]]** |
+| **Customer Churn Analysis** | Built a model to **identify key drivers** of customer attrition, providing a basis for targeted retention strategies. | Python (Pandas/Scikit-learn), Excel | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub-[https://github.com/yashkaushik-900/Techo-Customer-Churn-Data-Analysis.git]]** |
+| **E-Commerce Sales Analysis** | Deep-dive analysis of sales data to find **seasonal trends** and **top-performing product categories**, driving inventory and marketing decisions. | Excel, Python (Pandas) | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub-[https://github.com/yashkaushik-900/Hotel-Booking-using-Excel-analysis.git]]** |
+| **Hotel Booking Analysis** | Analyzed booking patterns, cancellation rates, and customer demographics to inform **dynamic pricing** and **inventory management** strategies. | Excel, Power BI | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub-[https://github.com/yashkaushik-900/E-Commerce-Sales-by-Data-Analysis.git]]** |
 
 ---
 
