@@ -31,25 +31,28 @@
 
 ## 📂 Featured Projects  
 
-### 🔹 Data Analytics Projects
+## 📊 Data Analytics Projects
 
-mermaid
+```mermaid
 graph TD
-  A  [Data Analytics] --> B[Vendor Performance Analytics]
-  B  |Python + SQL| B1[Optimized vendor selection & pricing]
-  B  |GitHub Link| B2[[📊 Project Link]] 
-  B2  "https://github.com/yashkaushik-900/vendor-performance-analytics"
+    A[Data Analytics Projects] 
 
-  A   C[Customer Churn Analysis]
-  C  |Pandas & Seaborn| C1[Identified churn patterns]
-  C  |GitHub Link| C2[[📉 Project Link]]
-  C2  "https://github.com/yashkaushik-900/customer-churn-analysis"
+    A --> B[Vendor Performance Analytics]
+    B --> B1[Optimized vendor selection & pricing]
+    B --> B2[[📊 GitHub Link]]
+    B2 --> "https://github.com/yashkaushik-900/vendor-performance-analytics"
 
-  A  D[E-Commerce Sales Analysis]
-  D  D1[Excel & Python based insights]
+    A --> C[Customer Churn Analysis]
+    C --> C1[Identified churn patterns]
+    C --> C2[[📉 GitHub Link]]
+    C2 --> "https://github.com/yashkaushik-900/customer-churn-analysis"
 
-  A  E[Hotel Booking Analysis]
-  E  E1[Excel data cleaning & visualization]
+    A --> D[E-Commerce Sales Analysis]
+    D --> D1[Excel & Python based insights]
+
+    A --> E[Hotel Booking Analysis]
+    E --> E1[Excel data cleaning & visualization]
+
 
 
 <!-- ### 🔹 Full MERN Stack Projects  
