@@ -1,110 +1,88 @@
-# Hi 👋, I'm Yash Kaushik  
-🎓 B.Tech Student | 💻 Aspiring Software Engineer | 📊 Data Analytics Enthusiast  |🌐 Full-Stack Developer 
+# Hi 👋, I'm Yash Kaushik
+
+<a href="https://www.linkedin.com/in/yashkaushik-900"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:kaushikyash453@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+<a href="https://github.com/yashkaushik-900"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 
 ---
 
-## 🧑‍💻 About Me  
-🚀 On a journey to become a **Software Engineer**, passionate about building scalable web applications and solving real-world problems with **MERN Stack, Python & Data Analytics**.  
-📊 Skilled in **MERN, Python, SQL, Excel, Power BI** for development & analytics.  
-💡 Strong believer in **learning by building** projects and sharing them.  
+## 🚀 Professional Summary
+
+A passionate **B.Tech Student** and aspiring **Software Engineer** specializing in building scalable web applications and extracting data-driven insights.
+
+- **Dual Focus:** Expertise in **Full-Stack Development (MERN)** combined with practical skills in **Data Analytics** and business intelligence.
+- **Goal:** Seeking challenging roles that involve architecting robust software solutions and leveraging data to solve complex real-world problems.
+- **Philosophy:** Strong believer in **learning by building**; all core skills are validated through featured end-to-end projects.
 
 ---
 
-## 🔧 Tools & Technologies  
+## 🛠️ Tech Stack & Expertise
 
-<p align="center">  
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
-</p>  
+| Category | Key Technologies |
+| :--- | :--- |
+| **Full-Stack (MERN)** | **React.js**, **Node.js**, **Express.js**, **MongoDB**, **JavaScript** |
+| **Backend & APIs** | Node.js, REST APIs, Python, SQL (PostgreSQL/MySQL) |
+| **Data & Analytics** | **Python (Pandas, NumPy)**, **SQL**, **Power BI**, **MS Excel** |
+| **Dev Tools** | HTML5, CSS3, Git, GitHub |
 
----
-
-## 📂 Featured Projects  
-
-## 📊 Data Analytics Projects
-
-```mermaid
-graph TD
-    A[Data Analytics Projects] 
-
-    A --> B[Vendor Performance Analytics]
-    B --> B1[Optimized vendor selection & pricing]
-    B --> B2[[📊 GitHub Link]]
-    B2 --> "https://github.com/yashkaushik-900/vendor-performance-analytics"
-
-    A --> C[Customer Churn Analysis]
-    C --> C1[Identified churn patterns]
-    C --> C2[[📉 GitHub Link]]
-    C2 --> "https://github.com/yashkaushik-900/customer-churn-analysis"
-
-    A --> D[E-Commerce Sales Analysis]
-    D --> D1[Excel & Python based insights]
-
-    A --> E[Hotel Booking Analysis]
-    E --> E1[Excel data cleaning & visualization]
-
-
-
-<!-- ### 🔹 Full MERN Stack Projects  
-- [🌐 Job Portal](https://github.com/yashkaushik-900/job-portal) – Complete job portal with authentication, job posting & applications.  
-- [🛒 E-Commerce Store](https://github.com/yashkaushik-900/ecommerce-store) – Online shopping system with cart, payments & admin panel.  
-- [💬 Chat Application](https://github.com/yashkaushik-900/chat-app) – Real-time chat app using **Socket.io** & MERN.  
-- [📑 Blog Platform](https://github.com/yashkaushik-900/blog-platform) – Blogging website with authentication & rich text editor.  
-- [📊 Task Manager](https://github.com/yashkaushik-900/task-manager) – Task tracking app with user dashboard & API integration.  -->
-
-### 🔹 Web Development (HTML/CSS Projects – 10+ Mini Projects)  
-<!-- [🎨 Portfolio Website](https://github.com/yashkaushik-900/portfolio)  
-- [🍔 Restaurant Landing Page](https://github.com/yashkaushik-900/restaurant-landing-page) --> 
-- [🎬 Movie Review Site](https://github.com/yashkaushik-900/movie-site)  
-- [🎧 Music Player UI](https://github.com/yashkaushik-900/music-player)  
-- [📱 Responsive Login Page](https://github.com/yashkaushik-900/login-page)  
-<!-- [📄 Resume Template](https://github.com/yashkaushik-900/resume-template)  
-- [📚 Education Landing Page](https://github.com/yashkaushik-900/edu-landing)  
-- [⚡ Startup Website](https://github.com/yashkaushik-900/startup-site)  -->
-- [📊 Business Analytics Dashboard](https://github.com/yashkaushik-900/analytics-dashboard)  
-<!-- [🏠 Real Estate Website](https://github.com/yashkaushik-900/real-estate-site) --> 
+<p align="center">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📂 Featured Projects (Impact & Scalability)
 
-<p align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=yashkaushik-900&show_icons=true&theme=tokyonight" height="150"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkaushik-900&layout=compact&theme=tokyonight" height="150"/>  
-</p>  
+### 💻 Full-Stack Web Applications (MERN)
 
----
+| Project | Description | Tech Used | Links |
+| :--- | :--- | :--- | :--- |
+| **Job Portal** | A complete platform with **secure user authentication**, job posting by recruiters, and application management for candidates. | MERN Stack, JWT | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** |
+| **E-Commerce Store** | Full-featured online store with user cart, payment gateway integration (e.g., Stripe/PayPal), and a protected **Admin Panel** for inventory management. | MERN Stack | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** |
+| **Real-time Chat App** | A multi-user chat application implementing **Socket.io** for real-time messaging, demonstrating proficiency with web sockets and server-side state. | MERN Stack, Socket.io | **[🌐 Live Demo]** \| **[🧑‍💻 GitHub]** |
 
-## 🔥 Contribution Streak  
+*(Please replace the placeholder links above with your actual repository links.)*
 
-<p align="center">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkaushik-900&theme=tokyonight" alt="GitHub Streak"/>  
-</p>  
+### 📊 Data Analytics & Business Intelligence
 
----
-
-## 🏆 Achievements  
-
-<p align="center">  
-<img src="https://github-profile-trophy.vercel.app/?username=yashkaushik-900&theme=onedark&row=1&column=6"/>  
-</p>  
+| Project | Key Impact & Value | Technologies | Links |
+| :--- | :--- | :--- | :--- |
+| **Vendor Performance Analytics** | Identified bottlenecks and inefficiencies, leading to recommendations for **optimized vendor selection & pricing** models. | Python, SQL, Power BI | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub]** |
+| **Customer Churn Analysis** | Built a model to **identify key drivers** of customer attrition, providing a basis for targeted retention strategies. | Python (Pandas/Scikit-learn), Excel | **[📈 Report/Dashboard]** \| **[🧑‍💻 GitHub]** |
 
 ---
 
-## 🌐 Connect With Me  
+## 📊 GitHub Analytics & Contributions
 
-📩 Email: **kaushikyash453@gmail.com**  
-💼 LinkedIn: [linkedin.com/in/yashkaushik-900](https://www.linkedin.com/in/yashkaushik-900)  
-📂 GitHub Projects: [github.com/yashkaushik-900](https://github.com/yashkaushik-900)  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yashkaushik-900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkaushik-900&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkaushik-900&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+### 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yashkaushik-900&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+</p>
 
 ---
+
+## 🌐 Connect With Me
+
+I'm always open to discussing new opportunities, collaborations, and scalable solutions.
+
+- **Email:** **kaushikyash453@gmail.com**
+- **LinkedIn:** [linkedin.com/in/yashkaushik-900](https://www.linkedin.com/in/yashkaushik-900)
+- **GitHub Projects:** [github.com/yashkaushik-900](https://github.com/yashkaushik-900)
