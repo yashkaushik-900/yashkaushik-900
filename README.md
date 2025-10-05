@@ -104,5 +104,5 @@ A passionate **B.Tech Student** and aspiring **Software Engineer** specializing 
 I'm always open to discussing new opportunities, collaborations, and scalable solutions.
 
 - **Email:** **kaushikyash453@gmail.com**
-- **LinkedIn:** [linkedin.com/in/yashkaushik-900](https://www.linkedin.com/in/yash-kaushik-3393b1243)([https://www.linkedin.com/in/yashkaushik-900](https://www.linkedin.com/in/yash-kaushik-3393b1243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn:** (https://www.linkedin.com/in/yash-kaushik-3393b1243)([https://www.linkedin.com/in/yashkaushik-900](https://www.linkedin.com/in/yash-kaushik-3393b1243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - **GitHub Projects:** [github.com/yashkaushik-900](https://github.com/yashkaushik-900)
